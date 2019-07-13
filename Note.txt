@@ -1,2 +1,11 @@
 https://www.youtube.com/watch?v=IkOVe40Sy0U&t=132s
 https://github.com/bradtraversy/bitzprice
+
+https://nextjs.org/docs
+
+=======================================
+
+C:\react\bitzprice>npm init -y
+C:\react\bitzprice>npm install --save next react react-dom
+
+
