@@ -7,8 +7,8 @@ const Index = (props) => (
     <Layout>
         <div>
             <h1>Welcome to BitzPrice</h1>
-            {props.time.updated}
-            <Prices></Prices>
+            <p>Check current Bitcoin rate</p>
+            <Prices bpi={props.bpi}></Prices>
         </div>
     </Layout>
 );
@@ -18,7 +18,6 @@ Index.getInitialProps = async () => {
     const data = await res.json();
 
     return {
-        time: data.time,
         bpi: data.bpi
     }
 };
