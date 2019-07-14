@@ -13,6 +13,7 @@ const Index = (props) => (
     </Layout>
 );
 
+// getInitialProps is a Next.js method.
 Index.getInitialProps = async () => {
     const res = await fetch('https://api.coindesk.com/v1/bpi/currentprice.json');
     const data = await res.json();
