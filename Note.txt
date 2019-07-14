@@ -4,11 +4,18 @@ https://github.com/bradtraversy/bitzprice
 https://nextjs.org/docs
 https://bootswatch.com/
 https://bootswatch.com/4/cerulean/bootstrap.min.css
+https://www.coindesk.com/
+https://www.coindesk.com/api
+
+https://api.coindesk.com/v1/bpi/currentprice.json
+https://api.coindesk.com/v1/bpi/currentprice/<CODE>.json
+https://api.coindesk.com/v1/bpi/historical/close.json
 
 =======================================
 
 C:\react\bitzprice>npm init -y
 C:\react\bitzprice>npm install --save next react react-dom
+C:\react\bitzprice>npm install isomorphic-unfetch
 
 http://localhost:3000
 http://localhost:3000/about

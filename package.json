@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-      "dev": "next",
-      "build": "next build",
-      "start": "next start"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Annie-Huang/bitzprice#readme",
   "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
     "next": "^9.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
