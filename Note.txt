@@ -8,4 +8,5 @@ https://nextjs.org/docs
 C:\react\bitzprice>npm init -y
 C:\react\bitzprice>npm install --save next react react-dom
 
-
+http://localhost:3000
+http://localhost:3000/about
