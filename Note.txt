@@ -2,6 +2,8 @@ https://www.youtube.com/watch?v=IkOVe40Sy0U&t=132s
 https://github.com/bradtraversy/bitzprice
 
 https://nextjs.org/docs
+https://bootswatch.com/
+https://bootswatch.com/4/cerulean/bootstrap.min.css
 
 =======================================
 
